@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Zafarebad/Predicting-Customer-Churn/blob/main/Predict%20Customer%20Churn.ipynb)
+
 # Predicting Customer Churn using Machine Learning
 
 An end-to-end machine learning project to predict customer churn. Churn prediction helps businesses identify customers likely to discontinue services, enabling proactive retention strategies.
